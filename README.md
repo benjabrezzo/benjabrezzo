@@ -2,8 +2,6 @@
 
 I’m **Benjamin Brezzo**, computer engineering student from Córdoba, Argentina.
 
-I´m also studying web development :).
-
 ## Lenguages:
 - C++
 - Java
