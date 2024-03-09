@@ -6,8 +6,6 @@ I’m **Benjamin Brezzo**, computer engineering student from Córdoba, Argentina
 - C++
 - Java
 - Python
-- HTML/CSS
-- JavaScript
 
 
 ## My social media:
